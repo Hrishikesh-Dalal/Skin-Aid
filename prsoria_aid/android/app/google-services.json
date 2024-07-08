@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669200260937",
+    "project_id": "psoriaaid",
+    "storage_bucket": "psoriaaid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669200260937:android:49a698f5489b6c58c3c498",
+        "android_client_info": {
+          "package_name": "com.example.prsoria_aid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3CxCwWBOtJBCgmhL262cawLIWKJRdJfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
